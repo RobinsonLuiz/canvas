@@ -1,0 +1,11 @@
+#footer {
+    position: absolute;
+    margin-left: 42vw;
+    bottom: 0;
+    margin-bottom: 2%;
+}
+
+body {
+    min-height: 500px;
+    overflow-y: auto
+}
